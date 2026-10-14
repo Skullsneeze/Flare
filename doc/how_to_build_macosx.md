@@ -61,7 +61,7 @@ rm /usr/local/lib/cmake/glew
 These steps will put the Flare repository under /Users/yourlogin/Documents.
 ```sh
 cd ~/Documents   #or where you want to store the repository#
-git clone https://github.com/Flare/Flare
+git clone https://github.com/Flare-Animate/Flare.git
 cd Flare
 git lfs pull
 cd thirdparty/lzo
